@@ -1,0 +1,4 @@
+[24-Sep-2018 03:37:41 UTC] PHP Fatal error:  Redefinition of parameter $user in /home/ubuntu/workspace/Assignment2/brv/app/Policies/UserPolicy.php on line 19
+[24-Sep-2018 04:24:54 UTC] PHP Fatal error:  Constant expression contains invalid operations in /home/ubuntu/workspace/Assignment2/brv/app/Http/Controllers/Auth/LoginController.php on line 28
+[24-Sep-2018 05:35:47 UTC] PHP Fatal error:  Redefinition of parameter $user in /home/ubuntu/workspace/Assignment2/brv/app/Policies/UserPolicy.php on line 57
+[24-Sep-2018 09:47:33 UTC] PHP Fatal error:  Trait 'App\Http\Controllers\Auth\AuthenticatesUsers' not found in /home/ubuntu/workspace/Assignment2/brv/app/Http/Controllers/Auth/LoginController.php on line 21
