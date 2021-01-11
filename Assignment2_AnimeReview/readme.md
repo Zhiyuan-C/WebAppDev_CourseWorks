@@ -76,7 +76,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 ### Delete item page with access level for moderator
 ![Alt Assignment2 delete](/Assignment2_AnimeReview/sampleImages/a1SI13.png?raw=true)
 ### Documation
-![Alt Assignment2 doc1](/Assignment2_AnimeReview/sampleImages/a1SI14.png?raw=true)
+![Alt Assignment2 doc1](/sampleImages/a1SI14.png?raw=true)
 ![Alt Assignment2 doc2](/Assignment2_AnimeReview/sampleImages/a1SI15.png?raw=true)
 ![Alt Assignment2 doc3](/Assignment2_AnimeReview/sampleImages/a1SI16.png?raw=true)
 ![Alt Assignment2 doc4](/Assignment2_AnimeReview/sampleImages/a1SI17.png?raw=true)
