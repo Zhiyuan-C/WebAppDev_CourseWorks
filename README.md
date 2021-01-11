@@ -1,5 +1,7 @@
 # Web Application Development Course Works
 
+This repository contains the assignment works for above course.
+
 Use `ngrok` to serve locally.
 Install `ngrok` then follow below command line
 ```
