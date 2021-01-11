@@ -52,34 +52,34 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 # Sample result images of Assigment 2
 ### Home page
-![Alt Assignment2 home](/Assignment2_AnimeReview/sampleImages/a1SI1.png?raw=true)
+![Alt Assignment2 home](/Assignment2_AnimeReview/sampleImages/a2SI1.png?raw=true)
 ### User authentication
 #### Login
-![Alt Assignment2 login](/Assignment2_AnimeReview/sampleImages/a1SI2.png?raw=true)
+![Alt Assignment2 login](/Assignment2_AnimeReview/sampleImages/a2SI2.png?raw=true)
 #### Input validation for login if pass/email not correct
-![Alt Assignment2 inputvalid1](/Assignment2_AnimeReview/sampleImages/a1SI8.png?raw=true)
+![Alt Assignment2 inputvalid1](/Assignment2_AnimeReview/sampleImages/a2SI8.png?raw=true)
 #### Register
-![Alt Assignment2 regist](/Assignment2_AnimeReview/sampleImages/a1SI3.png?raw=true)
+![Alt Assignment2 regist](/Assignment2_AnimeReview/sampleImages/a2SI3.png?raw=true)
 #### Input validation for register
-![Alt Assignment2 inputvalid2](/Assignment2_AnimeReview/sampleImages/a1SI4.png?raw=true)
-![Alt Assignment2 inputvalid3](/Assignment2_AnimeReview/sampleImages/a1SI5.png?raw=true)
-![Alt Assignment2 inputvalid4](/Assignment2_AnimeReview/sampleImages/a1SI6.png?raw=true)
-![Alt Assignment2 inputvalid5](/Assignment2_AnimeReview/sampleImages/a1SI7.png?raw=true)
+![Alt Assignment2 inputvalid2](/Assignment2_AnimeReview/sampleImages/a2SI4.png?raw=true)
+![Alt Assignment2 inputvalid3](/Assignment2_AnimeReview/sampleImages/a2SI5.png?raw=true)
+![Alt Assignment2 inputvalid4](/Assignment2_AnimeReview/sampleImages/a2SI6.png?raw=true)
+![Alt Assignment2 inputvalid5](/Assignment2_AnimeReview/sampleImages/a2SI7.png?raw=true)
 ### Add item
-![Alt Assignment2 inputvalid5](/Assignment2_AnimeReview/sampleImages/a1SI9.png?raw=true)
+![Alt Assignment2 inputvalid5](/Assignment2_AnimeReview/sampleImages/a2SI9.png?raw=true)
 ### User dashboard for moderator
-![Alt Assignment2 dashboard](/Assignment2_AnimeReview/sampleImages/a1SI10.png?raw=true)
+![Alt Assignment2 dashboard](/Assignment2_AnimeReview/sampleImages/a2SI10.png?raw=true)
 ### Detail item page with access level for moderator
-![Alt Assignment2 detail](/Assignment2_AnimeReview/sampleImages/a1SI11.png?raw=true)
+![Alt Assignment2 detail](/Assignment2_AnimeReview/sampleImages/a2SI11.png?raw=true)
 ### Edit item page with access level for moderator
-![Alt Assignment2 edit](/Assignment2_AnimeReview/sampleImages/a1SI12.png?raw=true)
+![Alt Assignment2 edit](/Assignment2_AnimeReview/sampleImages/a2SI12.png?raw=true)
 ### Delete item page with access level for moderator
-![Alt Assignment2 delete](/Assignment2_AnimeReview/sampleImages/a1SI13.png?raw=true)
+![Alt Assignment2 delete](/Assignment2_AnimeReview/sampleImages/a2SI13.png?raw=true)
 ### Documation
-![Alt Assignment2 doc1](/sampleImages/a1SI14.png?raw=true)
-![Alt Assignment2 doc2](/Assignment2_AnimeReview/sampleImages/a1SI15.png?raw=true)
-![Alt Assignment2 doc3](/Assignment2_AnimeReview/sampleImages/a1SI16.png?raw=true)
-![Alt Assignment2 doc4](/Assignment2_AnimeReview/sampleImages/a1SI17.png?raw=true)
-![Alt Assignment2 doc5](/Assignment2_AnimeReview/sampleImages/a1SI18.png?raw=true)
-![Alt Assignment2 doc6](/Assignment2_AnimeReview/sampleImages/a1SI19.png?raw=true)
-![Alt Assignment2 doc7](/Assignment2_AnimeReview/sampleImages/a1SI20.png?raw=true)
+![Alt Assignment2 doc1](/Assignment2_AnimeReview/sampleImages/a2SI14.png?raw=true)
+![Alt Assignment2 doc2](/Assignment2_AnimeReview/sampleImages/a2SI15.png?raw=true)
+![Alt Assignment2 doc3](/Assignment2_AnimeReview/sampleImages/a2SI16.png?raw=true)
+![Alt Assignment2 doc4](/Assignment2_AnimeReview/sampleImages/a2SI17.png?raw=true)
+![Alt Assignment2 doc5](/Assignment2_AnimeReview/sampleImages/a2SI18.png?raw=true)
+![Alt Assignment2 doc6](/Assignment2_AnimeReview/sampleImages/a2SI19.png?raw=true)
+![Alt Assignment2 doc7](/Assignment2_AnimeReview/sampleImages/a2SI20.png?raw=true)
